@@ -3,4 +3,3 @@ def square_array(numbers)
   numbers.each { |n| numbers << n**2 }
 end
 
-puts square_array(numbers)
